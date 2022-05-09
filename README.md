@@ -1,4 +1,4 @@
-# Moringa--week-5-project
+# The level of financial inclusion in the region encompassing Kenya, Rwanda , Uganda and Tanzania.
 Final project at Moringa School (week 5)
 Class final group project
 
